@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LocalMeals-app/static/css/main.a9b9eb7a.chunk.css",
+    "main.js": "/LocalMeals-app/static/js/main.4b880e1e.chunk.js",
+    "main.js.map": "/LocalMeals-app/static/js/main.4b880e1e.chunk.js.map",
+    "runtime-main.js": "/LocalMeals-app/static/js/runtime-main.e691d3de.js",
+    "runtime-main.js.map": "/LocalMeals-app/static/js/runtime-main.e691d3de.js.map",
+    "static/css/2.b1f3d402.chunk.css": "/LocalMeals-app/static/css/2.b1f3d402.chunk.css",
+    "static/js/2.f5e49e93.chunk.js": "/LocalMeals-app/static/js/2.f5e49e93.chunk.js",
+    "static/js/2.f5e49e93.chunk.js.map": "/LocalMeals-app/static/js/2.f5e49e93.chunk.js.map",
+    "index.html": "/LocalMeals-app/index.html",
+    "precache-manifest.a377e2b2b69677a338785c26dcee1708.js": "/LocalMeals-app/precache-manifest.a377e2b2b69677a338785c26dcee1708.js",
+    "service-worker.js": "/LocalMeals-app/service-worker.js",
+    "static/css/2.b1f3d402.chunk.css.map": "/LocalMeals-app/static/css/2.b1f3d402.chunk.css.map",
+    "static/css/main.a9b9eb7a.chunk.css.map": "/LocalMeals-app/static/css/main.a9b9eb7a.chunk.css.map",
+    "static/js/2.f5e49e93.chunk.js.LICENSE.txt": "/LocalMeals-app/static/js/2.f5e49e93.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/LocalMeals-app/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/cover.scss": "/LocalMeals-app/static/media/bg.c01b093a.jpg",
+    "static/media/salmon.png": "/LocalMeals-app/static/media/salmon.953dcdaa.png",
+    "static/media/spoon.png": "/LocalMeals-app/static/media/spoon.c9eb09d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e691d3de.js",
+    "static/css/2.b1f3d402.chunk.css",
+    "static/js/2.f5e49e93.chunk.js",
+    "static/css/main.a9b9eb7a.chunk.css",
+    "static/js/main.4b880e1e.chunk.js"
+  ]
+}
